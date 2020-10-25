@@ -1,2 +1,2 @@
-# pacan-with-voice-AI-final
-Final code for tutorial pacan-with-voice-AI
+# pacman-with-voice-AI-final
+Final code for tutorial pacman-with-voice-AI
