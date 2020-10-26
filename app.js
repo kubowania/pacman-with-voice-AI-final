@@ -306,9 +306,9 @@ function checkForWin() {
   }
 }
 
-// Please hide your API key and do not publish onto GitHub or share on the internet. This project is for your own local use only and not to be published onto
-// your GitHub with your API Key visible to others.
-// This is advise for your own benefit. You can hide your API Key by converting this project to use packages such as .dotenv. 
+// Please hide your SDK key and do not publish onto GitHub or share on the internet. This project is for your own local use only and not to be published onto
+// your GitHub with your Key visible to others.
+// This is advice for your own benefit. You can hide your SDK Key by converting this project to use packages such as .dotenv. 
 var alanBtnInstance = alanBtn({
   key: "UNIQUE_ALAN_AI_SDK_KEY",
   onCommand: function (commandData) {
